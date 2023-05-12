@@ -1,0 +1,44 @@
+.nav-bar{
+    list-style: none;
+    padding: 20px;
+    padding-left: 0px;
+    background-color: #333;
+
+    
+}
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+#link1{
+    padding: 24px;
+    width: 50px;   
+}
+
+#link2{
+    padding: 24px;
+    width: 50px;
+}
+
+#link3{
+    padding: 24px;
+    width: 50px;  
+}
+
+#link1:hover{
+    background-color: black;
+}
+
+#link2:hover{
+    background-color: black;
+}
+
+#link3:hover{
+    background-color: black;
+}
+#link1:active{
+    background-color: blueviolet;
+}
